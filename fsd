@@ -1,0 +1,14 @@
+ed494b0 2026-10-14 23:49:35 +0300 5. contract (remove the old column)
+349cf0b 2026-10-14 23:41:45 +0300 4. Switch (stop writing to the old value)
+f2028d8 2026-10-14 23:16:59 +0300 3. prepare (switch default from old to new value)
+399a888 2026-10-14 22:41:12 +0300 bug fix for render?
+bde73ca 2026-10-14 22:25:29 +0300 2. backfill (copy old column to new column)
+b4ab8b9 2026-10-14 22:09:51 +0300 bug fix
+68c50d0 2026-10-14 22:05:32 +0300 Merge pull request #5 from Nerevakiin/database-migrate
+cbbb288 2026-10-14 22:04:15 +0300 migrate db / add columns
+7b0b72f 2026-10-14 20:31:41 +0300 automate migration
+c5cc94b 2026-10-14 20:31:17 +0300 automate migration
+6c1e9e1 2026-10-14 14:18:39 +0300 Merge pull request #4 from Nerevakiin/automate-deployment-on-render
+fa236ca 2026-10-14 14:17:42 +0300 formatting fix
+0c484ed 2026-10-14 13:57:38 +0300 Fix npm dependency resolution for CI
+f054cf3 2026-10-14 13:48:34 +0300 automated deploy on render
